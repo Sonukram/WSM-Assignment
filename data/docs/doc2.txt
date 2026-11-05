@@ -1,0 +1,1 @@
+Information retrieval systems build an inverted index to answer queries quickly.
